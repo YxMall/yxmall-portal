@@ -8,6 +8,7 @@
  *  1. 打包只会包含释放(解开注释)的组件, 减少打包文件大小
  */
 import Vue from 'vue'
+import 'element-ui/lib/theme-chalk/index.css'
 import {
     Pagination,
     Dialog,
